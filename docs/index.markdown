@@ -34,4 +34,6 @@
 
 ## Support or Contact
 
-Check out our [room](https://app.jqbx.fm/room/idiot-middle-aged-men) for fun!
+Check out our [room stats](https://www.jqbx.fm/stats/idiot-middle-aged-men) for fun!
+
+<img src="{{ site.url }}/assets/images/bike.jpg" style="width:100%">
