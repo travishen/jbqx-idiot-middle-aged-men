@@ -28,9 +28,12 @@
 |------------------	|----------------------------------------------------------------	|-----------------	|------	|
 | 雨天的歌         	| Falling Off A Horse                                            	| @瑞比 Iphone 鼠 	| 6    	|
 | 食物的歌         	| ㄘㄨㄚˋ冰進行曲                                                	| @瑞比杭特       	| 8    	|
-| 聽了會想不開的歌 	| 你是不是像我一樣                                               	| @chao chen      	| 5    	|
+| 聽了會想不開的歌 	| 你是不是像我一樣                                               	| @Ciao      	| 5    	|
 | 初戀感覺的歌     	| First Love                                                     	| @哈哈是我拉     	| 7    	|
 | 海邊的歌         	| Hawaiian Roller Coaster Ride - From "Lilo & Stitch"/Soundtrack 	| @Tinker bell    	| 7    	|
+| 小明剛分手，你會送他  | 讓我搭一班會爆炸的飛機  	| @掐死你   	| 6    	|
+| 小明剛分手，你會送他  | 關東煮  	| @Jimbo/@Samantha   	| 6    	|
+| 色色的歌  | 握不住的他  	| @Jimbo/@Samantha   	| 7    	|
 
 ## Support or Contact
 
