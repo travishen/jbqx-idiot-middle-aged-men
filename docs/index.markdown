@@ -10,8 +10,6 @@
 
 這是一個由數個智中異建立的房間，其中一個因為忙著製作財報，不克出現。
 
-<img src="{{ site.url }}/assets/images/telegram-poor-labor.jpg" style="width:100%">
-
 這邊沒有什麼規矩，也沒有好的 DJ，我是說除了你以外。
 
 ## 選歌大賽:pushpin::pushpin:
